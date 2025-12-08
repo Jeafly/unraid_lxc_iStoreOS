@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LXC version="0.1">
+  <Name>iStoreOS</Name>
+  <Distribution>openwrt</Distribution>
+  <Release>24</Release>
+  <Architecture>amd64</Architecture>
+  <Repository>https://github.com/Jeafly/unraid_lxc_iStoreOS</Repository>
+  <Description>iStoreOS</Description>
+  <Autostart>false</Autostart>
+  <Beta>True</Beta>
+  <Support>https://support.me.pls</Support>
+  <Source>https://www.istoreos.cn/</Source>
+  <Project>https://github.com/istoreos/istoreos</Project>
+  <Overview>This LXC container contains iStoreOS.&#xD;
+Please also consider donating to the maintainer from the software.</Overview>
+  <Category>Tools:</Category>
+  <WebUI>http://[IP]</WebUI>
+  <Icon>https://raw.githubusercontent.com/Jeafly/unraid_lxc_iStoreOS/refs/heads/main/Istoreos_A.png</Icon>
+  <DonateText>If you like my work (or not) please </DonateText>
+  <DonateLink>https://payme.now/pls</DonateLink>
+  <Requires>unRAID server</Requires>.
+</LXC>
